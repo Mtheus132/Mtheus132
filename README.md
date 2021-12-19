@@ -1,10 +1,10 @@
 ### Hi, it's me, Matheus!
 
 
-- 🌱 Studying Game developer 
-- 📫 Reach me at: matheus.gabriel141@gmail.com
+- 🎮 Studying Game developer 
+- 📧 Reach me at: matheus.gabriel141@gmail.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Music, Game and Art.
+- 🎵  Fun fact: Music, Game and Art.
 
 <div align="center">
   <a href="https://github.com/Mtheus132">
@@ -32,4 +32,4 @@
  
 </div>
     
-  ![Snake animation](https://github.com/Mtheus132/Mtheus132/blob/output/github-contribution-grid-snake.svg)
+  
