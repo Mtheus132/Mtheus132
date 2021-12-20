@@ -33,8 +33,6 @@
        
         
 
-https://user-images.githubusercontent.com/60374840/146695237-98e9a140-4df1-4740-a08b-8ce08e3079d2.mp4
-
 
        
 </div>
