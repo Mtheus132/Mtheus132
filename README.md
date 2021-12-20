@@ -30,11 +30,8 @@
      <a href="https://open.spotify.com/user/mathewsdfhdfb?si=660a7a8622ba457b&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a> 
      <a href="https://www.youtube.com/channel/UC0f49imEP2ywcWkFH3og_mw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
  
-       
-        
-
-
-       
+              
 </div>
-    
+       
+![Snake animation](https://github.com/Mtheus132/Mtheus132/blob/output/github-contribution-grid-snake.svg)
   
