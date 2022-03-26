@@ -1,6 +1,6 @@
 ### Hi, it's me, Matheus!
 
-- ✨ Front-End Programer
+- ✨ Full Stack Programmer
 - 🎮 Studying Game developer 
 - 📧 Reach me at: matheus.gabriel141@gmail.com
 - 😄 Pronouns: Ele/Dele
