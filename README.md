@@ -3,7 +3,6 @@
 - ✨ Full Stack Programmer
 - 🎮 Studying Game developer 
 - 📧 Reach me at: matheus.gabriel141@gmail.com
-- 😄 Pronouns: Ele/Dele
 - 🎵  Fun fact: Music, Game and Art.
 
 <div align="center">
