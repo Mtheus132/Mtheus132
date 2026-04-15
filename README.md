@@ -38,5 +38,4 @@
               
 </div>
        
-![Snake animation](https://github.com/Mtheus132/Mtheus132/blob/output/github-contribution-grid-snake.svg)
-  
+![Snake animation](https://raw.githubusercontent.com/Mtheus132/Mtheus132/output/github-contribution-grid-snake.svg)  
